@@ -1,4 +1,4 @@
-# **Next.js + Spring Boot Full-Stack App*  
+# *Next.js + Spring Boot Full-Stack App*  
 
 ## **Author**  
 **Name:** Shaswat Gusain  
@@ -13,8 +13,8 @@ It consists of:
 - A **Next.js frontend** that allows users to submit and view posts.  
 
 ### **Application Preview:**  
-![Application Preview]((https://github.com/user-attachments/assets/43ee6b0a-077c-4013-9984-f24e0a18913a)
-)  
+![Application Preview](https://github.com/Boahan/Pinggy/blob/main/Images/image.png?raw=true)
+
 
 ---
 
